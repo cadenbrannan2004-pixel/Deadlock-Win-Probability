@@ -8,7 +8,7 @@ __pycache__/
 # Secrets
 .env
 
-# Data and models: keep the folders, ignore their contents
+# Data and models
 data/*/*
 !data/*/.gitkeep
 models/*
